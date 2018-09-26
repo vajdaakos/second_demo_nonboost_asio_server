@@ -1,0 +1,1 @@
+./Debug/main.cpp.o ./Debug/Server.cpp.o ./Debug/Signer_and_verifier.cpp.o ./Debug/Connection.cpp.o ./Debug/Message.cpp.o ./Debug/Auth_answer_message.cpp.o ./Debug/Job_send_message.cpp.o ./Debug/close_connection.cpp.o
