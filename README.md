@@ -1,7 +1,4 @@
-demo nonboost asio multithreaded ssl/tls server
-
-# demo nonboost asio multithreaded ssl/tls client
-
+# demo nonboost asio multithreaded ssl/tls server
 
 # Protokoll leírás
 
